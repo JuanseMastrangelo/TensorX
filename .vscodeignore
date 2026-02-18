@@ -6,8 +6,6 @@ node_modules
 !README.md
 .gitignore
 .vscodeignore
-fonts
-settings.json
 install.sh
 install.ps1
 bootstrap.sh

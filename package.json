@@ -2,9 +2,13 @@
   "name": "tensorx",
   "displayName": "TensorX",
   "description": "TensorX is a modern, deep-black dark theme for Visual Studio Code, designed for developers who work with AI, agents, and modern software stacks.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "publisher": "juansemastrangelo",
   "license": "MIT",
+  "main": "./extension.js",
+  "activationEvents": [
+    "onStartupFinished"
+  ],
   "engines": {
     "vscode": "^1.60.0"
   },
