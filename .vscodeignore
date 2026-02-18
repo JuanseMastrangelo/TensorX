@@ -1,0 +1,15 @@
+.git
+.github
+.vscode
+node_modules
+*.md
+!README.md
+.gitignore
+.vscodeignore
+fonts
+settings.json
+install.sh
+install.ps1
+bootstrap.sh
+bootstrap.ps1
+CLAUDE.md

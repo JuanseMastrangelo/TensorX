@@ -1,0 +1,42 @@
+{
+  "name": "tensorx",
+  "displayName": "TensorX",
+  "description": "TensorX is a modern, deep-black dark theme for Visual Studio Code, designed for developers who work with AI, agents, and modern software stacks.",
+  "version": "1.0.1",
+  "publisher": "juansemastrangelo",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark theme",
+    "AI theme",
+    "modern dark theme",
+    "VS Code dark theme",
+    "minimal theme",
+    "neural theme",
+    "agent development",
+    "deep focus theme",
+    "programming theme",
+    "black theme",
+    "developer theme",
+    "futuristic theme"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juansemastrangelo/tensorx"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "TensorX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/islands-dark.json"
+      }
+    ]
+  }
+}
