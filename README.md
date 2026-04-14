@@ -1,22 +1,6 @@
-# TensorX — Modern AI Dark Theme for VS Code
-
-TensorX is a modern, deep-black dark theme for Visual Studio Code, designed for developers who work with AI, agents, and modern software stacks.
-
-Built on an obsidian foundation with carefully tuned contrast, TensorX delivers exceptional readability during long coding sessions. Its semantic color system enhances focus while keeping your workspace clean and distraction-free.
+# TensorX - Theme for VS Code
 
 ![TensorX Overview](assets/CleanShot%202026-02-14%20at%2021.47.05@2x.png)
-
-## Why TensorX?
-
-- Ultra-clean dark background
-- High-contrast, readable syntax highlighting
-- Optimized for AI, TypeScript, JavaScript, Python, and modern stacks
-- Minimal UI chrome for deep focus
-- Calm, futuristic aesthetic
-- Designed for long coding sessions
-
-TensorX is not a neon theme. It is engineered for clarity, balance, and flow.
-
 ![TensorX UI](assets/CleanShot%202026-02-14%20at%2021.45.00@2x.png)
 
 ## Perfect for
@@ -27,9 +11,6 @@ TensorX is not a neon theme. It is engineered for clarity, balance, and flow.
 - Night-time builders
 - Deep work sessions
 
-If you like minimalist dark themes with strong semantic contrast and a modern AI-inspired atmosphere, TensorX is built for you.
-
-![TensorX Editor](assets/CleanShot%202026-02-14%20at%2021.42.45@2x.png)
 
 ## Installation
 
